@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("../styled-themes/bootstrap.min.css");
+@import url("../node_modules/@fortawesome/fontawesome-free/css/all.min.css");
+
+html,
+body {
+  background: #F0F2F4;
+}

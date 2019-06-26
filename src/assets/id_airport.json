@@ -1,0 +1,67 @@
+{
+  "datajson": [
+    {
+      "iata": "SOC",
+      "nama": "Adi Sumarmo",
+      "kategori": "Internasional Airport, Embarkasi Haji",
+      "pengelola": "PT. Angkasa Pura I",
+      "alamat": "Jl. Bandara Adisumarmo - Surakarta, PO.BOX 800, Solo, 57108, Kec. Ngemplak, Kab. Boyolali, Jawa Tengah."
+    },
+    {
+      "iata": "JOG",
+      "nama": "Adi Sutjipto",
+      "kategori": "Internasional Airport",
+      "pengelola": "PT. Angkasa Pura I",
+      "alamat": "Jl. Raya Solo, KM. 9, Kel. Maguwoharjo, Kec. Depok, Kab. Sleman, DI Yogyakarta, 55282"
+    },
+    {
+      "iata": "SRG",
+      "nama": "Ahmad Yani",
+      "kategori": "Internasional Airport",
+      "pengelola": "PT. Angkasa Pura I",
+      "alamat": "Jl. Puad Ahmad Yani, Kel. Kalibanteng Kulon, Kec. Semarang Barat, Kota Semarang, Jawa Tengah, 50145"
+    },
+    {
+      "iata": "KOE",
+      "nama": "El Tari",
+      "kategori": "Internasional Airport",
+      "pengelola": "PT. Angkasa Pura I",
+      "alamat": "Jl. Adi Sucipto Terminal B, Kel. Baumata, Kec. Kupang Tengah, Kab. Kupang, Nusa Tenggara Timur (NTT), 85361"
+    },
+    {
+      "iata": "BIK",
+      "nama": "Frans Kaisiepo",
+      "kategori": "Internasional Airport",
+      "pengelola": "PT. Angkasa Pura I",
+      "alamat": "Jl. Moh. Yamin, Kel. Mandala, Kec. Biak Kota, Kab. Biak Numfor, Papua, 98111"
+    },
+    {
+      "iata": "DPS",
+      "nama": "I Gusti Ngurah Rai",
+      "kategori": "Internasional Airport",
+      "pengelola": "PT. Angkasa Pura I",
+      "alamat": "Jl. Raya I Gusti Ngurah Rai, Kel. Sumerta Kaja, Kec. Denpasar Timur, Kota Denpasar, Bali, 80236"
+    },
+    {
+      "iata": "SUB",
+      "nama": "Juanda",
+      "kategori": "Internasional Airport, Embarkasi Haji",
+      "pengelola": "PT. Angkasa Pura I",
+      "alamat": "Bandar Udara Juanda, Kel. Rangkahkidul Kec. Sidoarjo, Kab. Sidoarjo, Jawa Timur, 61234"
+    },
+    {
+      "iata": "MDC",
+      "nama": "Sam Ratulangi",
+      "kategori": "Internasional Airport",
+      "pengelola": "PT. Angkasa Pura I",
+      "alamat": "JL. AA. Maramis, Kel. Paniki Bawah, Kec. Mapanget, Kota Manado, Sulawesi Utara, 95256"
+    },
+    {
+      "iata": "UPG",
+      "nama": "Sultan Hasanuddin",
+      "kategori": "Internasional Airport, Embarkasi Haji",
+      "pengelola": "PT. Angkasa Pura I",
+      "alamat": "Jl. Bandar Udara Hasanuddin, Kel. Hasanuddin, Kec. Mandai, Kab. Maros, Sulawesi Selatan, 90552"
+    }
+  ]
+}
