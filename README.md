@@ -1,5 +1,7 @@
 # QuickAutoCompleteApp803
 
+Aplikasi pencarian dengan input dan listview, yang mana hasilnya ditampilkan berdasarkan JSON Data yang dipakai. Dibuat dengan dasar latihan dari channel Traversy Media di Youtube dengan tautan berikut <https://www.youtube.com/watch?v=1iysNUrI3lw&t=302s.>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
 ## Development server
