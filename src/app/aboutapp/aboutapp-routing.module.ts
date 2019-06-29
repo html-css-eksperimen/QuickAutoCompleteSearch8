@@ -6,6 +6,11 @@ const routes: Routes = [
   {
     path: '',
     component: TentangAplikasiComponent
+  },
+  {
+    path: '**',
+    redirectTo: '/tentang',
+    pathMatch: 'full'
   }
 ];
 

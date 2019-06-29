@@ -6,6 +6,11 @@ const routes: Routes = [
   {
     path: '',
     component: SearchHomeComponent
+  },
+  {
+    path: '**',
+    redirectTo: '/search',
+    pathMatch: 'full'
   }
 ];
 
